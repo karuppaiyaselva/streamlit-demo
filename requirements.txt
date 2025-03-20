@@ -1,8 +1,1 @@
 streamlit
-speech_recognition
-deep_translator
-gtts
-pygame
-tempfill
-
-
